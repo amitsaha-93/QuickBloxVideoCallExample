@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218475713281",
+    "firebase_url": "https://q-municate-3e953.firebaseio.com",
+    "project_id": "q-municate-3e953",
+    "storage_bucket": "q-municate-3e953.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218475713281:android:84346e344cd1fb60294100",
+        "android_client_info": {
+          "package_name": "com.quickblox.q_municate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218475713281-1raf5n43ch1896m5hnspoijqqobhn8jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quickblox.q_municate",
+            "certificate_hash": "6ca15f32c31dc2fe64721d9f4f4d8a37b151d093"
+          }
+        },
+        {
+          "client_id": "218475713281-i1btt9t68vh9v597uv1voevpjb8m034v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9sH06_EPdY9-pKwUn4f-2l83hkWDj9rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218475713281-i1btt9t68vh9v597uv1voevpjb8m034v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
